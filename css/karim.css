@@ -1566,7 +1566,7 @@ header .container nav li .megamenu .mega-links .links a i {
     border: 1px solid #eee;
 }
 @media (max-width: 991px) {
-    #top-videos .container {
+    #top-videos .container .top-videos-content {
         flex-direction: column;
     }
 }
