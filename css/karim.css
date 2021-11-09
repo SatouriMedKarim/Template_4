@@ -1478,7 +1478,7 @@ header .container nav li .megamenu .mega-links .links a i {
     -ms-transition: 0.3s;
     -o-transition: 0.3s;
 }
-.pricing .container .box::before {
+#pricing .container .box::before {
     left: 0;
     bottom: 0;
 }
